@@ -1,5 +1,5 @@
 import openai
-openai.api_key = "Your https://platform.openai.com/ API key here"
+openai.api_key = "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"
 
 from chatbot_db_helper import ChatbotDBHelper
 
